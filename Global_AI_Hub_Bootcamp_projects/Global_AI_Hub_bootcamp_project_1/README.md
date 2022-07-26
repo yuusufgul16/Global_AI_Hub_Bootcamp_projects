@@ -18,3 +18,10 @@ Kodlar Hakkında Kısa Açıklama:
 6.ogr(math_exam_results.xls) dosyasına bu sonucları ve girilen öğrenci bilgilerini yazıyoruz.
 7.Son olarak dataframe'e çeviriyoruz ve çıktımızı alıyoruz.
 ```
+
+
+- 🌱 My Team: **Yusuf Gül, Ferit Talha Gün, Halilcan Demir, Safa Kemal Ertürk, Simge Lale, Rojda Vargün**
+
+- 📫 How to reach me **yusufgulsite@gmail.com** or [My Website](http://yusufgulsite.cf/)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-g%C3%BCl-b63a8323a/](https://www.linkedin.com/in/yusuf-g%C3%BCl-b63a8323a/)
