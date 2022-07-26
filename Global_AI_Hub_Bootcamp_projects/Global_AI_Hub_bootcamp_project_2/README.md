@@ -4,7 +4,7 @@
 
 > Verilen Dataset(NetflixOriginals.csv) verileri ile veri çekme, veri görselleştirme ve veri analizi.
 
-Bazı öenmli açıklamalar:
+Bazı önemli açıklamalar:
 ```
 1.pandas, seaborn, numpy ve matplotlib kütüphaneleri ile çalışılmıştır
 2.Veri setine göre uzun soluklu filmler hangi dilde oluşturulmuştur? Görselleştirme yapıldı.
