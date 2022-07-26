@@ -5,7 +5,7 @@
 
 - 🌱 My team: **Yusuf Gül**, **Ferit Talha Gün**, **Halilcan Demir**, **Safa Kemal Ertürk**, **Simge Lale**, **Rojda Vargün**
 
-- 👨‍💻 To reach my website [yusufgulsite.cf](yusufgulsite.cf)
+- 👨‍💻 To reach [my website](http://yusufgulsite.cf/)
 
 - 📫 How to reach me **yusufgulsite@gmail.com**
 
